@@ -21,10 +21,10 @@ Com o crescimento das ferramentas de IA, torna-se essencial aprender não apenas
 As seguintes fontes foram utilizadas no NotebookLM:
 
 1. https://pt.wikipedia.org/wiki/Clarice_Lispector
-2. https://www.educause.edu/research-and-publications/reports/2023/artificial-intelligence-and-the-future-of-teaching-and-learning  
-3. https://unesdoc.unesco.org/ark:/48223/pf0000381137  
-4. https://hbr.org/2023/07/how-people-are-really-using-generative-ai  
-5. https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-economic-potential-of-generative-ai  
+2.https://www.todamateria.com.br/vida-e-obra-de-clarice-lispector/ 
+3. https://www.ebiografia.com/clarice_lispector/
+4.https://contobrasileiro.com.br/obras-de-clarice-lispector/
+5. https://www.suapesquisa.com/biografias/clarice_lispector.htm
 
 ### 🧠 Critérios de seleção:
 - Fontes confiáveis (acadêmicas e institucionais)
