@@ -20,7 +20,7 @@ Com o crescimento das ferramentas de IA, torna-se essencial aprender não apenas
 
 As seguintes fontes foram utilizadas no NotebookLM:
 
-1. https://arxiv.org/pdf/2304.13712.pdf  
+1. https://pt.wikipedia.org/wiki/Clarice_Lispector
 2. https://www.educause.edu/research-and-publications/reports/2023/artificial-intelligence-and-the-future-of-teaching-and-learning  
 3. https://unesdoc.unesco.org/ark:/48223/pf0000381137  
 4. https://hbr.org/2023/07/how-people-are-really-using-generative-ai  
