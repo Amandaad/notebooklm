@@ -52,15 +52,6 @@ A engenharia de prompts se mostrou uma habilidade essencial para extrair o máxi
 
 ---
 
-## 💡 Próximos passos
-
-- Expandir o estudo para outras áreas (dados, programação, etc.)
-- Integrar com outras ferramentas de IA
-- Criar novos cadernos temáticos
-
----
----
-
-## 🧪 Engenharia de Prompts e "Cicatrizes"
-
 ### 🔍 Prompt inicial
+Qual é o conflito interno da personagem neste trecho?”
+
