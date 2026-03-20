@@ -34,6 +34,33 @@ As seguintes fontes foram utilizadas no NotebookLM:
 
 ---
 
+## 🚀 Considerações Finais
+
+Este projeto demonstrou que o uso da IA vai além de obter respostas rápidas. Quando bem utilizada, ela se torna uma ferramenta poderosa para:
+
+- Estruturar conhecimento
+- Desenvolver pensamento crítico
+- Melhorar a qualidade do aprendizado
+
+A engenharia de prompts se mostrou uma habilidade essencial para extrair o máximo valor dessas ferramentas.
+
+---
+
+## 🧠 Ferramenta utilizada
+
+- NotebookLM (Google)
+
+---
+
+## 💡 Próximos passos
+
+- Expandir o estudo para outras áreas (dados, programação, etc.)
+- Integrar com outras ferramentas de IA
+- Criar novos cadernos temáticos
+
+---
+---
+
 ## 🧪 Engenharia de Prompts e "Cicatrizes"
 
 ### 🔍 Prompt inicial
